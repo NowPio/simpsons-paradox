@@ -1,7 +1,7 @@
 # simpsons-paradox
 Presenting the Simpson's Paradox on Covid-19 data.
 
-The data come from https://www.openintro.org/data/index.php?data=simpsons_paradox_covid. They consist of three binry variables: outcome (survived, death), age_group (under 50, 50+), and vaccine_status (vacccined, unvaccined).
+The data come from https://www.openintro.org/data/index.php?data=simpsons_paradox_covid. They consist of three binary variables: outcome (survived, death), age_group (under 50, 50+), and vaccine_status (vacccinated, unvaccinated).
 
 The src folder contains a Python script.
 
