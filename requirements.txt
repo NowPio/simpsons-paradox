@@ -1,0 +1,5 @@
+dowhy==0.8
+matplotlib==3.9.2
+networkx==3.3
+pandas==2.2.3
+statsmodels==0.14.4
